@@ -1,0 +1,19 @@
+# Build Folders
+[Bb]in
+[Oo]bj
+
+# User-specific Files
+*.suo
+*.user
+/.vs
+
+# NuGet Packages Directory
+packages
+
+# Others
+[Ww]eb.config
+[Aa]pp.config
+
+# Test Results
+/TestResults/*
+
